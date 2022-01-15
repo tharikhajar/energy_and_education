@@ -1,4 +1,4 @@
-## Tableau Viz: https://public.tableau.com/app/profile/tharik.hajar/viz/EnergyEducation/HomePage?publish=yes
+Tableau Viz: https://public.tableau.com/app/profile/tharik.hajar/viz/EnergyEducation/HomePage?publish=yes
 
 ## The idea
 
