@@ -1,3 +1,5 @@
+## Tableau Viz: https://public.tableau.com/app/profile/tharik.hajar/viz/EnergyEducation/HomePage?publish=yes
+
 ## The idea
 
 Often it is said that the most important aspect of a coutnry's budget is education. This statement is generally supported by the idea that an educated population is more efficient, and that it will push technology forward making it more efficient still. 
