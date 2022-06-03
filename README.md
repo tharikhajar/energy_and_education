@@ -2,9 +2,9 @@ Tableau Viz: https://public.tableau.com/app/profile/tharik.hajar/viz/EnergyEduca
 
 ## The idea
 
-Often it is said that the most important aspect of a coutnry's budget is education. This statement is generally supported by the idea that an educated population is more efficient, and that it will push technology forward making it more efficient still. 
+Often it is said that the most important aspect of a country's budget is education. This statement is generally supported by the idea that an educated population is more efficient, and that it will push technology forward making it more efficient still. 
 
-The recent acceleration in the neergy transition has been fueled by the continuous reduction in cost of renewable energy sources enabled by technological advancements. Be it by harnassing the forces of nature, such as in geothermal, wind and solar energy, or by the engineering of biological systems to synthesize fuel from organic matter, the energy cost has been coming down across the board, when compared with more traditional sources of energy. 
+The recent acceleration in the energy transition has been fueled by the continuous reduction in cost of renewable energy sources. Be it by harnassing the forces of nature, such as in geothermal, wind and solar energy, or by the engineering of biological systems to synthesize fuel from organic matter, the energy cost has been coming down across the board when compared with more traditional sources of energy. 
 
 So it is should be reasonable to assume that higher levels of education would bring about greater technological proweress, which in turn should speed up the pace of the energy transition. This is the hypothesis that we are evaluating here. To do so, we are leveraging the following datasets:
 
